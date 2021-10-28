@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "this bot is stuff.",
   "main": "index.js",
+  "engines": {
+    "node": "16.13.0",
+    "npm": "*"
+  },
   "scripts": {
     "test": "test",
     "nstart": "nodemon index.js",
